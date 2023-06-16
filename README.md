@@ -1,3 +1,18 @@
+<style>
+        body {
+            background-color: blue;
+            color: #ffffff;
+        }
+        h1 {
+            color: #ffffff;
+        }
+        h3 {
+            color: #ffffff;
+        }
+        p {
+            color: #ffffff;
+        }
+</style>
 <h1 align="center">Hi 👋, I'm Yannick</h1>
 <h3 align="center">I m a student, searching some Gundarium.</h3>
 
