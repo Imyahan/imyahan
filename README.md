@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **cool thing's**
 
-- ⚡ Fun fact **I love u ;)**
+- ⚡ Fun fact **I love mecha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
