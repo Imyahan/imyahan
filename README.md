@@ -1,10 +1,11 @@
 ---
 <h1 align="center">Here Yannick !</h1>
 <h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 2), also searching some Gundarium.(Joke)</h3>
+
 ---
 <div align="center">
   <p>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arkinos1&theme=react&layout=compact" width="480">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Minyth&theme=react&layout=compact" width="480">
   </p>
 </div>
 
