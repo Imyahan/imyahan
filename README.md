@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yannick</h1>
-<h3 align="center">I m a student, searching some Gundarium.</h3>
+---
+<h1 align="center">Here Yannick !</h1>
+<h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 2), also searching some Gundarium.(Joke)</h3>
+---
+<div align="center">
+  <p>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arkinos1&theme=react&layout=compact" width="480">
+  </p>
+</div>
 
-- 🌱 I’m currently learning **cool thing's**
-
-- ⚡ Fun fact **I love mecha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
