@@ -1,6 +1,6 @@
 ---
 <!--introduction-->
-<h1 align="center">Bonjour, Hello, 您好, Hola <br> I m Yannick</h1>
+<h1 align="center">Bonjour, Hello, 您好, Hola <br> I m Yannick also "Minyth" (don't ask me why idk)</h1>
 <h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 2), also searching some Gundarium.(Joke)</h3>
 
 --- 
@@ -20,6 +20,8 @@
   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Minyth&theme=react&layout=compact" width="400">
   <img align="center" src = "http://github-readme-streak-stats.herokuapp.com?user=Minyth&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="400">
 </div>
+<br>
+<br>
 
 ---
 <!--contact-->
