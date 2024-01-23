@@ -5,12 +5,11 @@
 
 <div align="center">
   <p>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Minyth&theme=react&layout=compact" width="480">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Minyth&theme=react&layout=compact" width="400">
+    <img src = "http://github-readme-streak-stats.herokuapp.com?user=Minyth&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="480">
   </p>
 </div>
 
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arkinos1&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
 <h3 align="left">Connect with me:</h3>
