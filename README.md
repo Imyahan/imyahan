@@ -1,7 +1,7 @@
 ---
 <!--introduction-->
 <h1 align="center">Bonjour, Hello, 您好, Hola <br> I m Yannick also knows as Ian</h1>
-<h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 2), also searching some Gundarium.(Joke)</h3>
+<h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 2)</h3>
 <h3 align="center">Here is my portfolio https://ianyann.github.io</h3>
 
 --- 
@@ -9,8 +9,6 @@
 <h3>Update :</h3>
 <p>
   - I m currently working on finding a intership, 10 Weeks to 3 months <br>
-  - Also working on my self but I live in near to Paris <br>
-  - Well also nice to meet you <br>
 </p>
 
 ---
