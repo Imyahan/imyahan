@@ -16,8 +16,8 @@
 <img align="right" src= "https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-5.gif" width="400">
 <!--<img align="right" src = "https://wallpaperaccess.com/full/775140.gif" width="400">-->
 <div align="left">
-  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IanYann&theme=react&layout=compact" width="400">
-  <img align="center" src = "http://github-readme-streak-stats.herokuapp.com?user=IanYann&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="400">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IanSYN&theme=react&layout=compact" width="400">
+  <img align="center" src = "http://github-readme-streak-stats.herokuapp.com?user=IanSYN&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="400">
 </div>
 <br>
 <br>
