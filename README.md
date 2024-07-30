@@ -1,14 +1,15 @@
 ---
 <!--introduction-->
 <h1 align="center">Bonjour, Hello, 您好, Hola <br> I m Yannick also knows as Ian</h1>
-<h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 2)</h3>
-<h3 align="center">Here is my portfolio https://iansyn.github.io (work on progress) </h3>
+<h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 3)</h3>
+<h3 align="center">Here is my portfolio <a href="https://iansyn.github.io" target="_blank">https://iansyn.github.io</a> (work on progress) </h3>
 
 --- 
 
 <h3>Update :</h3>
 <p>
   - I m currently working on my portfolio <br>
+  - I m working on my portfolio lab, if you want to visit it, the users password is users
 </p>
 
 ---
