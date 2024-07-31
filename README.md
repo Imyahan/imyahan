@@ -1,8 +1,8 @@
 ---
 <!--introduction-->
-<h1 align="center">Bonjour, Hello, 您好, Hola <br> I m Yannick also knows as Ian</h1>
-<h3 align="center">I m a student, currently studying at Universite-Paris-Saclay (BUT 3)</h3>
-<h3 align="center">Here is my portfolio <a href="https://iansyn.github.io" target="_blank">https://iansyn.github.io</a> (work on progress) </h3>
+<h1 align="left">Hello, <br> Nice to meet you, I m Yannick</h1>
+<h3 align="left">I m a student, currently studying at Universite-Paris-Saclay (BUT 3) and University of Quebec at Chicoutimi in software development</h3>
+<h3 align="left">Here is my portfolio <a href="https://iansyn.github.io" target="_blank">https://iansyn.github.io</a> (work on it) </h3>
 
 --- 
 
