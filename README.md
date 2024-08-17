@@ -9,7 +9,7 @@ Nice to meet you, I'm Yannick
 
 ### Update :
 - I'm currently working on my portfolio  
-- I'm working on my portfolio lab, if you want to visit it, the user's password is users
+- I'm working on my lab
 
 ---
 
