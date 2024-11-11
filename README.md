@@ -15,8 +15,8 @@ Nice to meet you, I'm Yannick
 
 <!-- Statistique -->
 <!-- ![Gif](https://wallpaperaccess.com/full/775140.gif) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevIand&theme=react&layout=compact)
-![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=RevIand&theme=react&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinultra&theme=react&layout=compact)
+![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=shinultra&theme=react&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
